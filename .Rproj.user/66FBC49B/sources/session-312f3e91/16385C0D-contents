@@ -1,0 +1,7 @@
+Package: SaitamaPlantMap
+Type: Project
+Title: Saitama Plant Distribution Map
+Version: 0.1.0
+Author: Tetsuo Uchida
+Description: A Shiny app visualizing plant distribution in Saitama Prefecture.
+License: MIT
